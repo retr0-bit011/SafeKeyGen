@@ -3,7 +3,7 @@ SafeKeyGen es una herramienta desarrollada en python que genera contraseñas seg
 ## Instalación
 1.  Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/generador-contrasenas.git
+   git clone https://github.com/retr0-bit011/SafeKeyGen.git
 ```
 2. Navega hasta el directorio
    ````bash
