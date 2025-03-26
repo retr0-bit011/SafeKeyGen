@@ -13,6 +13,20 @@ SafeKeyGen es una herramienta desarrollada en python que genera contraseñas seg
    ````bash
    python3 SafeKeyGen.py
    ````
+## Modo de Uso
+1. Para modo interativo
+   ````bash
+   python3 SafeKeyGen.py
+   ````
+   Sigue las intrucciones.
+2. Para argumentos por línea de comando
+   Ejemplo de uso: 
+   ````bash
+   python SafeKeyGen.py -l 25 -n 3 -f
+   ````
+   -l : longitud de contraseña (por defecto 20)
+   -n : numeros de contraseñas a generar
+   -f : mostrar fortaleza de la contraseña
 ## Requisitos
  -Python 3.6 o superior
 - Módulos estándar de Python (no se requieren instalaciones adicionales)
